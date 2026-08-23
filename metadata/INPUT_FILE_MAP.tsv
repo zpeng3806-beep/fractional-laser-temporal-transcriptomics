@@ -1,0 +1,5 @@
+accession	public_resource	expected_local_role	included_in_repository
+GSE168760	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168760	processed Series Matrix and metadata	metadata only; expression matrix retrieved from GEO
+GPL13667	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL13667	platform annotation	mapping audit included; platform table retrieved from GEO
+GSE206495	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206495	processed Series Matrix and metadata	metadata only; expression matrix retrieved from GEO
+GPL15207	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL15207	platform annotation	mapping audit included; platform table retrieved from GEO

@@ -1,0 +1,120 @@
+geo_accession	sample_title	participant_id	anatomical_site	time	treatment_number	treatment_control	laser_type	platform	sex
+GSM6255319	arm skin at 1 day after first laser session, participant 8	8	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255320	arm skin at baseline, participant 8	8	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255321	arm skin at 1 day after first laser session, participant 7	7	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255322	arm skin at 7 days after first laser session, participant 8	8	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255323	arm skin at 14 days after first laser session, participant 4	4	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255324	arm skin at baseline, participant 7	7	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255325	face skin at baseline, participant 7	7	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255326	arm skin at 14 days after first laser session, participant 6	6	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255327	face skin at 7 days after first laser session, participant 8	8	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255328	arm skin at 14 days after first laser session, participant 8	8	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255329	arm skin at 7 days after first laser session, participant 7	7	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255330	arm skin at baseline, participant 12	12	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255331	face skin at 7 days after first laser session, participant 7	7	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255332	arm skin at 14 days after first laser session, participant 7	7	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255333	arm skin at 29 days after first laser session & 1 day after second laser session, participant 6	6	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255334	arm skin at 29 days after first laser session & 1 day after second laser session, participant 9	9	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255335	arm skin at 7 days after first laser session, participant 9	9	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255336	arm skin at baseline, participant 4	4	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255337	arm skin at 7 days after first laser session, participant 4	4	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255338	face skin at baseline, participant 9	9	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255339	arm skin at 29 days after first laser session & 1 day after second laser session, participant 5	5	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255340	arm skin at 29 days after first laser session & 1 day after second laser session, participant 4	4	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255341	arm skin at 29 days after first laser session & 1 day after second laser session, participant 7	7	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255342	arm skin at 29 days after first laser session & 1 day after second laser session, participant 8	8	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255343	face skin at baseline, participant 10	10	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255344	arm skin at 1 day after first laser session, participant 9	9	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255345	face skin at baseline, participant 5	5	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255346	arm skin at baseline, participant 5	5	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255347	face skin at baseline, participant 8	8	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255348	face skin at baseline, participant 12	12	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255349	arm skin at 1 day after first laser session, participant 12	12	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255350	face skin at 7 days after first laser session, participant 12	12	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255351	arm skin at 7 days after first laser session, participant 12	12	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255352	arm skin at 14 days after first laser session, participant 12	12	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255353	arm skin at baseline, participant 10	10	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255354	arm skin at 1 day after first laser session, participant 10	10	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255355	arm skin at 7 days after first laser session, participant 10	10	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255356	face skin at 7 days after first laser session, participant 10	10	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255357	arm skin at 29 days after first laser session & 1 day after second laser session, participant 10	10	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255358	arm skin at 1 day after first laser session, participant 13	13	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255359	face skin at baseline, participant 13	13	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255360	arm skin at 29 days after first laser session & 1 day after second laser session, participant 12	12	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255361	arm skin at 14 days after first laser session, participant 10	10	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255362	face skin at 7 days after first laser session, participant 16	16	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255363	arm skin at 1 day after first laser session, participant 14	14	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255364	arm skin at 1 day after first laser session, participant 16	16	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255365	arm skin at baseline, participant 16	16	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255366	face skin at baseline, participant 16	16	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255367	arm skin at 14 days after first laser session, participant 13	13	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255368	face skin at 7 days after first laser session, participant 13	13	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255369	arm skin at 7 days after first laser session, participant 13	13	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255370	arm skin at baseline, participant 13	13	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255371	face skin at 7 days after first laser session, participant 14	14	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255372	arm skin at 7 days after first laser session, participant 14	14	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255373	arm skin at baseline, participant 14	14	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255374	arm skin at 7 days after first laser session, participant 16	16	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255375	arm skin at 29 days after first laser session & 1 day after second laser session, participant 13	13	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255376	arm skin at 1 day after first laser session, participant 15	15	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255377	face skin at baseline, participant 14	14	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255378	arm skin at baseline, participant 15	15	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255379	face skin at baseline, participant 15	15	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255380	arm skin at 14 days after first laser session, participant 14	14	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255381	arm skin at 1 day after first laser session, participant 11	11	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255382	arm skin at baseline, participant 11	11	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255383	arm skin at 7 days after first laser session, participant 15	15	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255384	arm skin at 14 days after first laser session, participant 15	15	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255385	face skin at baseline, participant 11	11	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255386	face skin at 7 days after first laser session, participant 15	15	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255387	arm skin at 14 days after first laser session, participant 16	16	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255388	face skin at 7 days after first laser session, participant 2	2	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255389	face skin at baseline, participant 17	17	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255390	arm skin at baseline, participant 17	17	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255391	arm skin at 14 days after first laser session, participant 11	11	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255392	arm skin at 29 days after first laser session & 1 day after second laser session, participant 14	14	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255393	face skin at 7 days after first laser session, participant 17	17	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255394	arm skin at 1 day after first laser session, participant 17	17	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255395	arm skin at 29 days after first laser session & 1 day after second laser session, participant 11	11	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255396	arm skin at 14 days after first laser session, participant 17	17	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255397	arm skin at 7 days after first laser session, participant 17	17	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255398	arm skin at 29 days after first laser session & 1 day after second laser session, participant 15	15	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255399	arm skin at 29 days after first laser session & 1 day after second laser session, participant 17	17	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255400	arm skin at 29 days after first laser session & 1 day after second laser session, participant 16	16	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255401	arm skin at 7 days after first laser session, participant 11	11	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255402	arm skin at 14 days after first laser session, participant 5	5	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255403	face skin at 7 days after first laser session, participant 11	11	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255404	arm skin at 7 days after first laser session, participant 6	6	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255405	arm skin at 1 day after first laser session, participant 5	5	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255406	arm skin at 29 days after first laser session & 1 day after second laser session, participant 1	1	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255407	arm skin at 29 days after first laser session & 1 day after second laser session, participant 2	2	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255408	arm skin at 29 days after first laser session & 1 day after second laser session, participant 3	3	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255409	arm skin at 14 days after first laser session, participant 3	3	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255410	arm skin at 14 days after first laser session, participant 9	9	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255411	arm skin at 1 day after first laser session, participant 3	3	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255412	arm skin at baseline, participant 2	2	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255413	arm skin at 7 days after first laser session, participant 3	3	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255414	face skin at baseline, participant 1	1	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255415	face skin at 7 days after first laser session, participant 1	1	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255416	arm skin at 7 days after first laser session, participant 2	2	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255417	arm skin at 14 days after first laser session, participant 1	1	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255418	face skin at 7 days after first laser session, participant 4	4	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255419	face skin at 7 days after first laser session, participant 6	6	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255420	face skin at 7 days after first laser session, participant 5	5	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255421	arm skin at baseline, participant 9	9	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255422	arm skin at 7 days after first laser session, participant 5	5	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255423	face skin at baseline, participant 4	4	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255424	face skin at baseline, participant 6	6	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255425	face skin at 7 days after first laser session, participant 9	9	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255426	arm skin at baseline, participant 6	6	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255427	arm skin at 1 day after first laser session, participant 6	6	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255428	arm skin at 14 days after first laser session, participant 2	2	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255429	arm skin at 7 days after first laser session, participant 1	1	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255430	arm skin at baseline, participant 3	3	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255431	face skin at 7 days after first laser session, participant 3	3	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255432	arm skin at 1 day after first laser session, participant 1	1	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255433	arm skin at 1 day after first laser session, participant 4	4	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255434	face skin at baseline, participant 3	3	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255435	face skin at baseline, participant 2	2	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255436	arm skin at baseline, participant 1	1	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
+GSM6255437	arm skin at 1 day after first laser session, participant 2	2	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female
