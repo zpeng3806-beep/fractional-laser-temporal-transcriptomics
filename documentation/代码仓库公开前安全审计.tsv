@@ -1,0 +1,16 @@
+check_id	检查项	范围	结果	证据或说明
+SEC-01	API key/token/password/cookie	全仓库51个文件	PASS	未检出高风险凭据模式
+SEC-02	GitHub credential/.env	文件名与内容	PASS	未包含凭据文件；.gitignore仅列出排除规则
+SEC-03	私钥	文件名与内容	PASS	未检出PEM/SSH私钥标记或密钥文件
+SEC-04	本机绝对路径	全仓库文本	PASS	未检出/Users、/home或Windows用户目录
+SEC-05	投稿系统账号信息	全仓库文本	PASS	未检出投稿账号或Wiley登录资料
+SEC-06	作者私人信息	全仓库文本	PASS	未包含作者邮箱、电话、住址、ORCID或签名
+SEC-07	审稿人信息	文件名与内容	PASS	未包含推荐审稿人姓名或联系方式
+SEC-08	Cover Letter/ICMJE	文件名与内容	PASS	未包含Cover Letter或ICMJE表
+SEC-09	未发表其他课题	文件清单与内容抽查	PASS	仅包含本分段激光研究文件
+SEC-10	患者可识别信息	metadata与结果表	PASS	仅公开GEO accession及去标识化研究编号；无直接身份标识
+SEC-11	无关材料	全仓库51个文件	PASS	目录结构与研究复现范围一致
+SEC-12	单文件体积	全仓库	PASS	无文件超过25 MB
+SEC-13	代码语法	正式R/Python/复现包装脚本	PASS	R parse、Python py_compile及bash -n均通过
+SEC-14	许可证与第三方数据权利	README/LICENSE/CITATION	PASS	MIT仅适用于原创代码；GEO数据权利明确保留给原数据库/原研究
+SEC-15	公开前总判定	全仓库	PASS	未发现阻止公开的隐私、凭据或完整性问题
