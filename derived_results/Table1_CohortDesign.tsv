@@ -1,0 +1,3 @@
+Dataset	Participants	Primary anatomical site	Laser treatment	Platform	Longitudinal sampling	Primary shared timepoints	Samples used in primary analysis	Participant blocking	Role in study
+GSE168760	14	Back skin	AFL	Human Genome HG-U219 Array	D0/D1/D3/D7/D14/D21/D28	D0/D1/D7/D14	56	Participant	Cohort 1; single-treatment primary
+GSE206495	17	Forearm skin	NAFL	Human Genome PrimeView Array	D0/D1/D7/D14; D29 second-treatment context	D0/D1/D7/D14	68	Participant	Cohort 2; forearm first-cycle primary
