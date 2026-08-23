@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or its derived artifacts, please cite this software and the associated manuscript when available."
+title: "Fractional-laser temporal transcriptomic reproducibility"
+type: software
+authors:
+  - family-names: "Zheng"
+    given-names: "Peng"
+    orcid: "https://orcid.org/0009-0002-0527-3860"
+  - family-names: "Yang"
+    given-names: "Yuanyuan"
+  - family-names: "Wang"
+    given-names: "Yixiu"
+  - family-names: "Zhao"
+    given-names: "Liping"
+version: "1.0.0"
+date-released: "2026-08-24"
+repository-code: "https://github.com/zpeng3806-beep/fractional-laser-temporal-transcriptomics"
+url: "https://github.com/zpeng3806-beep/fractional-laser-temporal-transcriptomics"
+abstract: "Frozen scripts and derived artifacts for a participant-level cross-cohort analysis of longitudinal human fractional-laser transcriptomic responses."
+keywords:
+  - fractional laser
+  - longitudinal transcriptomics
+  - reproducibility
+license: "MIT"
