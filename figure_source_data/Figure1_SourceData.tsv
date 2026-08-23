@@ -1,0 +1,272 @@
+panel	source_file	record_type	geo_accession	sample_title	participant_id	anatomical_site	time	treatment_number	treatment_control	laser_type	platform	sex	value
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166939	2030_1_28	2030.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166940	2030_0_0	2030.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166941	2030_1_7	2030.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166942	2030_1_1	2030.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166944	2030_3_84	2030.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166945	2030_1_14	2030.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166946	2030_1_3	2030.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166947	2030_2_56	2030.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166948	2030_1_21	2030.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166950	2030_4_112	2030.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166951	2026_4_112	2026.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166952	2026_1_21	2026.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166953	2020_1_3	2020.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166954	2020_0_0	2020.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166955	2020_1_14	2020.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166957	2020_3_84	2020.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166958	2026_1_1	2026.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166959	2026_2_56	2026.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166960	2026_1_7	2026.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166961	2026_0_0	2026.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166962	2026_3_84	2026.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166964	2026_1_28	2026.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166965	2026_1_14	2026.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166966	2026_1_3	2026.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166967	2020_1_1	2020.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166968	2020_2_56	2020.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166969	2020_4_112	2020.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166971	2020_1_7	2020.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166972	2020_1_28	2020.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166973	2020_1_21	2020.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166974	2006_1_1	2006.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166975	2006_3_84	2006.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166976	2006_1_3	2006.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166978	2006_1_7	2006.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166979	2006_1_28	2006.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166980	2006_0_0	2006.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166982	2014_4_112	2014.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166983	2014_1_28	2014.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166984	2014_1_14	2014.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166985	2014_3_84	2014.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166986	2014_1_21	2014.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166987	2014_1_7	2014.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166989	2014_1_3	2014.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166990	2014_1_1	2014.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166991	2006_2_56	2006.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166992	2006_4_112	2006.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166993	2006_1_21	2006.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166994	2006_1_14	2006.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166996	2014_2_56	2014.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166997	2014_0_0	2014.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166998	2013_4_112	2013.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5166999	2013_1_28	2013.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167000	2013_1_21	2013.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167001	2013_3_84	2013.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167003	2013_1_14	2013.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167004	2013_1_7	2013.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167005	2013_1_3	2013.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167006	2013_1_1	2013.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167007	2013_2_56	2013.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167009	2013_0_0	2013.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167010	2024_1_14	2024.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167011	2024_1_7	2024.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167012	2024_3_84	2024.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167013	2024_4_112	2024.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167014	2024_0_0	2024.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167016	2024_1_3	2024.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167017	2024_2_56	2024.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167018	2024_1_28	2024.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167019	2024_1_21	2024.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167020	2024_1_1	2024.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167021	2027_2_56	2027.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167023	2027_0_0	2027.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167024	2027_1_1	2027.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167025	2027_4_112	2027.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167026	2027_1_21	2027.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167027	2027_1_3	2027.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167028	2027_1_7	2027.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167030	2027_1_14	2027.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167031	2027_1_28	2027.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167032	2027_3_84	2027.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167033	2011_1_28	2011.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167035	2011_3_84	2011.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167036	2029_0_0	2029.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167037	2029_1_3	2029.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167038	2029_3_84	2029.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167039	2029_4_112	2029.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167040	2011_4_112	2011.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167042	2011_0_0	2011.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167043	2011_1_14	2011.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167044	2011_2_56	2011.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167045	2011_1_7	2011.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167046	2011_1_3	2011.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167047	2011_1_1	2011.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167049	2011_1_21	2011.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167050	2029_1_14	2029.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167051	2029_1_1	2029.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167052	2029_1_28	2029.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167054	2029_2_56	2029.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167055	2029_1_21	2029.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167056	2029_1_7	2029.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167057	2022_1_7	2022.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167058	2022_1_3	2022.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167059	2022_2_56	2022.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167061	2022_4_112	2022.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167062	2022_1_1	2022.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167063	2022_1_14	2022.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167064	2018_1_1	2018.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167065	2018_1_21	2018.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167066	2018_1_7	2018.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167068	2018_1_3	2018.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167069	2018_0_0	2018.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167070	2018_4_112	2018.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167071	2018_1_14	2018.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167072	2018_2_56	2018.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167073	2022_1_21	2022.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167075	2022_3_84	2022.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167076	2022_1_28	2022.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167077	2022_0_0	2022.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167078	2018_3_84	2018.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167080	2018_1_28	2018.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167081	2007_3_84	2007.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167082	2007_1_1	2007.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167083	2007_1_7	2007.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167084	2007_4_112	2007.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167085	2007_0_0	2007.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167087	2007_1_21	2007.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167088	2007_1_3	2007.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167089	2007_1_14	2007.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167090	2007_1_28	2007.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167091	2007_2_56	2007.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167092	2017_1_1	2017.0	skin biopsy	day 1	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167094	2017_1_28	2017.0	skin biopsy	day 28	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167095	2017_1_21	2017.0	skin biopsy	day 21	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167096	2017_0_0	2017.0	skin biopsy	day 0	0	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167097	2017_1_3	2017.0	skin biopsy	day 3	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167098	2017_1_7	2017.0	skin biopsy	day 7	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167099	2017_3_84	2017.0	skin biopsy	day 84	3	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167101	2017_1_14	2017.0	skin biopsy	day 14	1	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167102	2017_2_56	2017.0	skin biopsy	day 56	2	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+A	00_metadata/GSE168760_metadata.tsv	sample_metadata	GSM5167103	2017_4_112	2017.0	skin biopsy	day 112	4	longitudinal_baseline_or_treated	AFL	GPL13667	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255319	arm skin at 1 day after first laser session, participant 8	8.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255320	arm skin at baseline, participant 8	8.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255321	arm skin at 1 day after first laser session, participant 7	7.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255322	arm skin at 7 days after first laser session, participant 8	8.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255323	arm skin at 14 days after first laser session, participant 4	4.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255324	arm skin at baseline, participant 7	7.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255325	face skin at baseline, participant 7	7.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255326	arm skin at 14 days after first laser session, participant 6	6.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255327	face skin at 7 days after first laser session, participant 8	8.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255328	arm skin at 14 days after first laser session, participant 8	8.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255329	arm skin at 7 days after first laser session, participant 7	7.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255330	arm skin at baseline, participant 12	12.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255331	face skin at 7 days after first laser session, participant 7	7.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255332	arm skin at 14 days after first laser session, participant 7	7.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255333	arm skin at 29 days after first laser session & 1 day after second laser session, participant 6	6.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255334	arm skin at 29 days after first laser session & 1 day after second laser session, participant 9	9.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255335	arm skin at 7 days after first laser session, participant 9	9.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255336	arm skin at baseline, participant 4	4.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255337	arm skin at 7 days after first laser session, participant 4	4.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255338	face skin at baseline, participant 9	9.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255339	arm skin at 29 days after first laser session & 1 day after second laser session, participant 5	5.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255340	arm skin at 29 days after first laser session & 1 day after second laser session, participant 4	4.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255341	arm skin at 29 days after first laser session & 1 day after second laser session, participant 7	7.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255342	arm skin at 29 days after first laser session & 1 day after second laser session, participant 8	8.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255343	face skin at baseline, participant 10	10.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255344	arm skin at 1 day after first laser session, participant 9	9.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255345	face skin at baseline, participant 5	5.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255346	arm skin at baseline, participant 5	5.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255347	face skin at baseline, participant 8	8.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255348	face skin at baseline, participant 12	12.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255349	arm skin at 1 day after first laser session, participant 12	12.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255350	face skin at 7 days after first laser session, participant 12	12.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255351	arm skin at 7 days after first laser session, participant 12	12.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255352	arm skin at 14 days after first laser session, participant 12	12.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255353	arm skin at baseline, participant 10	10.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255354	arm skin at 1 day after first laser session, participant 10	10.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255355	arm skin at 7 days after first laser session, participant 10	10.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255356	face skin at 7 days after first laser session, participant 10	10.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255357	arm skin at 29 days after first laser session & 1 day after second laser session, participant 10	10.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255358	arm skin at 1 day after first laser session, participant 13	13.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255359	face skin at baseline, participant 13	13.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255360	arm skin at 29 days after first laser session & 1 day after second laser session, participant 12	12.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255361	arm skin at 14 days after first laser session, participant 10	10.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255362	face skin at 7 days after first laser session, participant 16	16.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255363	arm skin at 1 day after first laser session, participant 14	14.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255364	arm skin at 1 day after first laser session, participant 16	16.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255365	arm skin at baseline, participant 16	16.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255366	face skin at baseline, participant 16	16.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255367	arm skin at 14 days after first laser session, participant 13	13.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255368	face skin at 7 days after first laser session, participant 13	13.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255369	arm skin at 7 days after first laser session, participant 13	13.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255370	arm skin at baseline, participant 13	13.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255371	face skin at 7 days after first laser session, participant 14	14.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255372	arm skin at 7 days after first laser session, participant 14	14.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255373	arm skin at baseline, participant 14	14.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255374	arm skin at 7 days after first laser session, participant 16	16.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255375	arm skin at 29 days after first laser session & 1 day after second laser session, participant 13	13.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255376	arm skin at 1 day after first laser session, participant 15	15.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255377	face skin at baseline, participant 14	14.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255378	arm skin at baseline, participant 15	15.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255379	face skin at baseline, participant 15	15.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255380	arm skin at 14 days after first laser session, participant 14	14.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255381	arm skin at 1 day after first laser session, participant 11	11.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255382	arm skin at baseline, participant 11	11.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255383	arm skin at 7 days after first laser session, participant 15	15.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255384	arm skin at 14 days after first laser session, participant 15	15.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255385	face skin at baseline, participant 11	11.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255386	face skin at 7 days after first laser session, participant 15	15.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255387	arm skin at 14 days after first laser session, participant 16	16.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255388	face skin at 7 days after first laser session, participant 2	2.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255389	face skin at baseline, participant 17	17.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255390	arm skin at baseline, participant 17	17.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255391	arm skin at 14 days after first laser session, participant 11	11.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255392	arm skin at 29 days after first laser session & 1 day after second laser session, participant 14	14.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255393	face skin at 7 days after first laser session, participant 17	17.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255394	arm skin at 1 day after first laser session, participant 17	17.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255395	arm skin at 29 days after first laser session & 1 day after second laser session, participant 11	11.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255396	arm skin at 14 days after first laser session, participant 17	17.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255397	arm skin at 7 days after first laser session, participant 17	17.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255398	arm skin at 29 days after first laser session & 1 day after second laser session, participant 15	15.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255399	arm skin at 29 days after first laser session & 1 day after second laser session, participant 17	17.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255400	arm skin at 29 days after first laser session & 1 day after second laser session, participant 16	16.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255401	arm skin at 7 days after first laser session, participant 11	11.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255402	arm skin at 14 days after first laser session, participant 5	5.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255403	face skin at 7 days after first laser session, participant 11	11.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255404	arm skin at 7 days after first laser session, participant 6	6.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255405	arm skin at 1 day after first laser session, participant 5	5.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255406	arm skin at 29 days after first laser session & 1 day after second laser session, participant 1	1.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255407	arm skin at 29 days after first laser session & 1 day after second laser session, participant 2	2.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255408	arm skin at 29 days after first laser session & 1 day after second laser session, participant 3	3.0	arm skin	29 days after first laser session & 1 day after second laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255409	arm skin at 14 days after first laser session, participant 3	3.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255410	arm skin at 14 days after first laser session, participant 9	9.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255411	arm skin at 1 day after first laser session, participant 3	3.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255412	arm skin at baseline, participant 2	2.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255413	arm skin at 7 days after first laser session, participant 3	3.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255414	face skin at baseline, participant 1	1.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255415	face skin at 7 days after first laser session, participant 1	1.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255416	arm skin at 7 days after first laser session, participant 2	2.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255417	arm skin at 14 days after first laser session, participant 1	1.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255418	face skin at 7 days after first laser session, participant 4	4.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255419	face skin at 7 days after first laser session, participant 6	6.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255420	face skin at 7 days after first laser session, participant 5	5.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255421	arm skin at baseline, participant 9	9.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255422	arm skin at 7 days after first laser session, participant 5	5.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255423	face skin at baseline, participant 4	4.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255424	face skin at baseline, participant 6	6.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255425	face skin at 7 days after first laser session, participant 9	9.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255426	arm skin at baseline, participant 6	6.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255427	arm skin at 1 day after first laser session, participant 6	6.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255428	arm skin at 14 days after first laser session, participant 2	2.0	arm skin	14 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255429	arm skin at 7 days after first laser session, participant 1	1.0	arm skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255430	arm skin at baseline, participant 3	3.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255431	face skin at 7 days after first laser session, participant 3	3.0	face skin	7 days after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255432	arm skin at 1 day after first laser session, participant 1	1.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255433	arm skin at 1 day after first laser session, participant 4	4.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255434	face skin at baseline, participant 3	3.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255435	face skin at baseline, participant 2	2.0	face skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255436	arm skin at baseline, participant 1	1.0	arm skin	baseline	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+B	00_metadata/GSE206495_metadata.tsv	sample_metadata	GSM6255437	arm skin at 1 day after first laser session, participant 2	2.0	arm skin	1 day after first laser session	DERIVE_FROM_TIMEPOINT	longitudinal_baseline_or_treated	NAFL	GPL15207	female	
+C	PHASE3A_FIGURE_PLAN.tsv	shared_timepoint											D0
+C	PHASE3A_FIGURE_PLAN.tsv	shared_timepoint											D1
+C	PHASE3A_FIGURE_PLAN.tsv	shared_timepoint											D7
+C	PHASE3A_FIGURE_PLAN.tsv	shared_timepoint											D14
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											participant-blocked effects
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											shared gene universe
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											7 frozen programs
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											program concordance
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											random null + LOPO
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											genome-wide concordance
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											reciprocal rank replication
+D	PHASE3A_FIGURE_PLAN.tsv	workflow_node											transition analysis
